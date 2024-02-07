@@ -1,5 +1,7 @@
 # PINN(Physics-Informed-Neural-Networks)
 
+<https://dontempty.github.io/project/2022-10-22-PINN/>
+
 * # Description
    * 물리 정보(미분 방정식)를 딥러닝 모델로 해결하는 물리 정보 신경망을 구현
 ***
